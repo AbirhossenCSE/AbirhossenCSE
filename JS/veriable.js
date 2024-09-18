@@ -40,6 +40,12 @@ price2 = price2 - 1000;
 console.log(price2);
 
 
+var price3 = 3000;
+price3 = price3 - 1000;
+console.log(price3);
+
+
+
 
 
 
