@@ -5,7 +5,7 @@
 Here are some things related to me:
 
    🔭 I’m currently working on JavaScript
-   🌱 I’m currently learning .. JavaScript
+   🌱 I’m currently learning .. JavaScript, React
    💬 Ask me about .. Anything
    📫 How to reach me: .. hossenabir694@gmail.com
    😄 Pronouns: As you wish  
