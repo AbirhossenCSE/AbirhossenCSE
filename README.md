@@ -23,10 +23,7 @@ Here are some things related to me:
 ⚙️ &nbsp;Languages and Tools:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=js,react,mongodb,firebase" />
-  <img src="https://skillicons.dev/icons?i=tailwind,css,html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /> 
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,firebase,tailwind,css,html,mysql" />
 </div>
 
 <div align="center">
