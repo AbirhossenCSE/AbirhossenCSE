@@ -1,5 +1,5 @@
 <div align="center">
-   Hi there, I am Abir Hossen
+   Hi there, I am <strong>Abir Hossen</strong>
 </div>  
 <div align="center">
 Here are some things related to me:
