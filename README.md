@@ -10,7 +10,6 @@ Here are some things related to me:
    📫 How to reach me: .. hossenabir694@gmail.com
    😄 Pronouns: As you wish  
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbirhossenCSE&label=Profile%20views&color=0e75b6&style=flat" alt="AbirhossenCSE" /> </p>
 
 ⚙️ &nbsp;GitHub Analytics
 
@@ -45,3 +44,4 @@ Here are some things related to me:
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=AbirhossenCSE&theme=react-light)
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbirhossenCSE&label=Profile%20views&color=0e75b6&style=flat" alt="AbirhossenCSE" /> </p>
