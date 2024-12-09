@@ -4,8 +4,8 @@
 <div align="center">
 Here are some things related to me:
 
-   🔭 I’m currently working on JavaScript
-   🌱 I’m currently learning .. JavaScript, React
+   🔭 I’m currently working on JavaScript, ReactJS
+   🌱 I’m currently learning .. NodeJS
    💬 Ask me about .. Anything
    📫 How to reach me: .. hossenabir694@gmail.com
    😄 Pronouns: As you wish  
