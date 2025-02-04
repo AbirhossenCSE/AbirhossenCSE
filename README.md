@@ -1,9 +1,8 @@
 <div align="center">
-  <img height="290" src="https://i.ibb.co.com/GQB9JjBW/Abir-Hossen.png"  />
+  <img height="290" src="https://i.ibb.co.com/qFXkPpJ6/Abir-pic-for-github.png"  />
 </div>
 
 ###
-
 <h1 align="center">Hello There..👋🏽 I am Abir Hossen!</h1>
 
 <h2 align="center">Here are some things related to me</h2>
